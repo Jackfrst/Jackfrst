@@ -2,7 +2,7 @@
 
 Few Facts about me : 
 
-- 🤖 I’m currently learning JAVA , PHYTHON
+- 🤖 I’m currently learning JAVA , PHYTHON , Dart , Flutter 
 - 😼 Fammilier with : C++ , C
 - 📫 How to reach me: arnobr99@gmail.com 
 - 😄 Call me as Arnob 
