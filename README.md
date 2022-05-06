@@ -7,3 +7,5 @@ Few Facts about me :
 - 📫 How to reach me: arnobr99@gmail.com 
 - 😄 Call me as Arnob 
 - ⚡ Fun fact: I can spend my whole day playing games if i feel like it.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackfrst)](https://github.com/anuraghazra/github-readme-stats)
