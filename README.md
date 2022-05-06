@@ -22,4 +22,4 @@ Few Facts about me :
 ![Page Views](https://visitor-badge.glitch.me/badge?page_id=Jackfrst&left_color=blue&right_color=black)
 
 ##PINED
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=THE_COVID_19)](https://github.com/anuraghazra/github-readme-stats)
