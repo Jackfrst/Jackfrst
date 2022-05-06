@@ -8,4 +8,4 @@ Few Facts about me :
 - 😄 Call me as Arnob 
 - ⚡ Fun fact: I can spend my whole day playing games if i feel like it.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackfrst)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackfrst&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
