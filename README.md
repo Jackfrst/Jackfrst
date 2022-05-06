@@ -18,10 +18,10 @@ Few Facts about me :
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfrst&theme=city_lights&show_icons=true&hide_border=true)
 
-## Statistics
-![Page Views](https://visitor-badge.glitch.me/badge?page_id=Jackfrst&left_color=blue&right_color=black)
-
 ## PINED
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=THE_COVID_19&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=IOT_Interface&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=ARML-FOOD&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Statistics
+![Page Views](https://visitor-badge.glitch.me/badge?page_id=Jackfrst&left_color=blue&right_color=black)
