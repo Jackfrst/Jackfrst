@@ -16,7 +16,7 @@ Few Facts about me :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackfrst&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfrst&theme=nord&show_icons=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackfrst&theme=city_lights&show_icons=true&hide_border=true)
 
 ## Statistics
 ![Page Views](https://visitor-badge.glitch.me/badge?page_id=Jackfrst&left_color=blue&right_color=black)
