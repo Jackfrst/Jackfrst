@@ -6,8 +6,8 @@
 
 Few Facts about me : 
 
-- 🤖 I’m currently learning JAVA , PHYTHON , Dart , Flutter 
-- 😼 Fammilier with : C++ , C
+- 🤖 I’m currently learning JAVA , PHYTHON , 
+- 😼 Fammilier with : C++ , C , Dart , Flutter , HTML , CSS , PHP , SQL , MSSQL 
 - 📫 How to reach me: arnobr99@gmail.com 
 - 😄 Call me as Arnob 
 - ⚡ Fun fact: I can spend my whole day playing games if i feel like it.
