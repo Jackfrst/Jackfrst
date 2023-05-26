@@ -23,5 +23,3 @@ Few Facts about me :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=IOT_Interface&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/Jackfrst/IOT_Interface.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackfrst&repo=ARML-FOOD&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/Jackfrst/ARML-FOOD.git)
 
-## Statistics
-![Page Views](https://visitor-badge.glitch.me/badge?page_id=Jackfrst&left_color=blue&right_color=black)
