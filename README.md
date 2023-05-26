@@ -6,7 +6,7 @@
 
 Few Facts about me : 
 
-- 🤖 I’m currently learning JAVA , PHYTHON , 
+- 🤖 I’m currently learning machine learning 
 - 😼 Fammilier with : C++ , C , Dart , Flutter , HTML , CSS , PHP , SQL , MSSQL 
 - 📫 How to reach me: arnobr99@gmail.com 
 - 😄 Call me as Arnob 
