@@ -7,7 +7,7 @@
 Few Facts about me : 
 
 - 🤖 I’m currently learning machine learning 
-- 😼 Fammilier with : C++ , C , Dart , Flutter , HTML , CSS , PHP , SQL , MSSQL 
+- 😼 Fammilier with : C++ , C , Dart , Flutter , HTML , CSS , PHP , SQL , MSSQL ,Python , Matlab, Arduino 
 - 📫 How to reach me: arnobr99@gmail.com 
 - 😄 Call me as Arnob 
 - ⚡ Fun fact: I can spend my whole day playing games if i feel like it.
